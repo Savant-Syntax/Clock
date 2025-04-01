@@ -26,7 +26,7 @@ function updateClock() {
     let ms = day.getMilliseconds();
     
     // Calculate angles
-    let hh = day.getHours() * 30 + day.getMinutes() * 0.5 + (day.getSeconds() + ms / 1000) * (0.5 / 60); // Hours hand
+    let hh = day.getHours() * 30 + day.getMinutes() * 0.5 + (day.getSeconds() + ms / 1000) * (0.5/ 60); // Hours hand
     let mm = day.getMinutes() * 6 + (day.getSeconds() + ms / 1000) * (6 / 60); // Minutes hand
     let ss = (day.getSeconds() + ms / 1000) * 6; // Seconds hand
 
