@@ -4,7 +4,9 @@ A stylish, real-time analog clock with smooth animations, built using HTML, CSS,
 
 ## 🖼️ Preview
 
-<img src="preview.png" alt="Analog Clock Preview" width="400"/>
+<img src="clock.png" alt="Analog Clock Preview" width="400"/>
+
+- Link: https://savant-syntax.github.io/Clock/
 
 ## 🔧 Tech Stack
 
